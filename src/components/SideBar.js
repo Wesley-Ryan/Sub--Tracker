@@ -10,6 +10,3 @@ const SideBar = () => {
 }
  
 export default SideBar;
-<div>
-    Side Bar
-</div>
