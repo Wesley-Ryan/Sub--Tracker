@@ -1,3 +1,4 @@
+
 /** @jsxImportSource @emotion/react */
 
 import React from "react";
@@ -73,6 +74,7 @@ function App() {
         </h1>
         <SubscriptionCard />
       </div>
+
     </div>
   );
 }
