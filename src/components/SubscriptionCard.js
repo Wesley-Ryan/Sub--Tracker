@@ -4,7 +4,7 @@ import { css, jsx } from "@emotion/react";
 import logo from "../assets/img_300x300/netflix_logo.jpg";
 
 const Card = css({
-  width: `40%`,
+  width: `60%`,
   border: `1px solid black`,
   height: `180px`,
   borderRadius: `5px`,
